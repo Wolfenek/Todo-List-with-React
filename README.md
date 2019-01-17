@@ -1,4 +1,4 @@
-![Screenshot](public/screenshot.png)
+![screenshot](public/screenshot.PNG)
 
 Simple todo project built with React.js following Traversy Media's tutorial.
 
