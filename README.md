@@ -1,4 +1,4 @@
-## Todo list built with React
+![](public/screenshot.png)
 
 Simple todo project built with React.js following Traversy Media's tutorial.
 
