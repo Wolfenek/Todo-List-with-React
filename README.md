@@ -1,3 +1,13 @@
+## Todo list built with React
+
+Simple todo project built with React.js following Traversy Media's tutorial.
+
+## Goal
+
+The goal was to familiarize myself with Create-react-app and the core concepts of the library.
+
+## Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
